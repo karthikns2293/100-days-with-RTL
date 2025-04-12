@@ -1,2 +1,2 @@
 # 100-days-with-verilog-RTL
-This is an already existing verilog repository, with some add-ons. Doing this as a challenge.
+As a part of self-improvement, doing it as a challenge. 
